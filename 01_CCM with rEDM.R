@@ -1,5 +1,5 @@
 ##################################################################
-##          R Tutorial for Causal Inference Workshop:           ##
+##           R Tutorial for Causal Modeling Workshop:           ##
 ##    Introduction to Convergent Cross Mapping and S-map        ##
 ##                                                              ##
 ##                  Wednesday, April 16, 2025                   ##
