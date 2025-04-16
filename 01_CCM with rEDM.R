@@ -214,7 +214,7 @@ plot(rho_C2, type = 'l', xlab = "Embedding Dimension", ylab = "Rho Value",
 abline(v = E_C2_loo, col = "red")
 
 
-### Example 2: specifying library (testing) and prediction (testing) regions
+### Example 2: specifying library (training) and prediction (testing) regions
 
 # Create empty vectors to store results
 rho_P2_2 <- numeric(maxE)

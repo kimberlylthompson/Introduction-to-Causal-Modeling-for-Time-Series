@@ -118,7 +118,7 @@ df <- as.matrix(df)
 # we want to focus on the effects on C2 (column 4)
 targ_col.test <- 3
 
-# Define the embedding, here A.values will correspond to the hypothesized effect
+# Define the embedding, here values will correspond to the hypothesized effect
 # while B.values will correspond to the hypothesized cause
 Embedding <- c("R", "C1", "C2", "P1", "P2")
 Edim <- length(Embedding)
