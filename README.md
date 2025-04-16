@@ -1,2 +1,3 @@
 # Introduction-to-Causal-Modeling-for-Time-Series
-Provides introduction to causal modeling convergent cross mapping and s-mapping.
+# Convergent Cross Mapping and S-mapping
+Provides introductory lecture materials, as well as R-tutorials to demonstrate the implementation of the methods.
